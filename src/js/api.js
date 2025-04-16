@@ -1,5 +1,5 @@
 // api.js
-const API_URL = 'www.api-rest.infy.uk/public/';
+const API_URL = 'http://localhost/API-REST-PRUEBA/public/';
 
 const api = {
     async getAllProducts() {
